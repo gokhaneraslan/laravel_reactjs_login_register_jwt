@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://gokhaneraslan.github.io/laravel_reactjs_jwt_login",
+  "homepage": "https://gokhaneraslan.github.io/laravel_reactjs_login_jwt",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
